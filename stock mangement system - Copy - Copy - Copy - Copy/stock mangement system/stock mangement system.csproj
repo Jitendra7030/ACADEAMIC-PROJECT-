@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{965EE00C-4176-457C-AB01-C6A259D2D464}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>stock_mangement_system</RootNamespace>
+    <AssemblyName>stock mangement system</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addreport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>addreport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="addstock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addstock.Designer.cs">
+      <DependentUpon>addstock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addstockreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addstockreport.Designer.cs">
+      <DependentUpon>addstockreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="billpayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="billpayment.Designer.cs">
+      <DependentUpon>billpayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customermaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customermaster.Designer.cs">
+      <DependentUpon>Customermaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customerreport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>customerreport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="management_2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>management_2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="management_finalDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>management_finalDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="productmaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="productmaster.Designer.cs">
+      <DependentUpon>productmaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="productmasterreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="productmasterreport.Designer.cs">
+      <DependentUpon>productmasterreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="productreport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>productreport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="purchaseordemaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="purchaseordemaster.Designer.cs">
+      <DependentUpon>purchaseordemaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="purchaseorderdelivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="purchaseorderdelivery.Designer.cs">
+      <DependentUpon>purchaseorderdelivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTcustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTcustomer.Designer.cs">
+      <DependentUpon>REPORTcustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="saleorder.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>saleorder.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="saleorderreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saleorderreport.Designer.cs">
+      <DependentUpon>saleorderreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="salesorderentry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesorderentry.Designer.cs">
+      <DependentUpon>salesorderentry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="supp.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>supp.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="suppliermaste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="suppliermaste.Designer.cs">
+      <DependentUpon>suppliermaste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="supplierreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="supplierreport.Designer.cs">
+      <DependentUpon>supplierreport.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addreport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>addreport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addstock.resx">
+      <DependentUpon>addstock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addstockreport.resx">
+      <DependentUpon>addstockreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="billpayment.resx">
+      <DependentUpon>billpayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customermaster.resx">
+      <DependentUpon>Customermaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customerreport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>customerreport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="productmaster.resx">
+      <DependentUpon>productmaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="productmasterreport.resx">
+      <DependentUpon>productmasterreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="productreport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>productreport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="purchaseordemaster.resx">
+      <DependentUpon>purchaseordemaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="purchaseorderdelivery.resx">
+      <DependentUpon>purchaseorderdelivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTcustomer.resx">
+      <DependentUpon>REPORTcustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saleorder.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>saleorder.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saleorderreport.resx">
+      <DependentUpon>saleorderreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesorderentry.resx">
+      <DependentUpon>salesorderentry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supp.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>supp.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="suppliermaste.resx">
+      <DependentUpon>suppliermaste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supplierreport.resx">
+      <DependentUpon>supplierreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="management_2DataSet.xsc">
+      <DependentUpon>management_2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="management_2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>management_2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="management_2DataSet.xss">
+      <DependentUpon>management_2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="management_finalDataSet.xsc">
+      <DependentUpon>management_finalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="management_finalDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>management_finalDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="management_finalDataSet.xss">
+      <DependentUpon>management_finalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2417077.jpg" />
+    <None Include="Resources\user-profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="management 2.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="management final.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

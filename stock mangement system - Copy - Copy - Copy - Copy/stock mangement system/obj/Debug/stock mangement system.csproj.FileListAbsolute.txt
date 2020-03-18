@@ -1,0 +1,315 @@
+D:\jk\stock mangement system\stock mangement system\bin\Debug\stock mangement system.exe.config
+D:\jk\stock mangement system\stock mangement system\bin\Debug\stock mangement system.exe
+D:\jk\stock mangement system\stock mangement system\bin\Debug\stock mangement system.pdb
+D:\jk\stock mangement system\stock mangement system\obj\Debug\stock mangement system.csprojResolveAssemblyReference.cache
+D:\jk\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.Form1.resources
+D:\jk\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.Properties.Resources.resources
+D:\jk\stock mangement system\stock mangement system\obj\Debug\stock mangement system.csproj.GenerateResource.Cache
+D:\jk\stock mangement system\stock mangement system\obj\Debug\stock mangement system.exe
+D:\jk\stock mangement system\stock mangement system\obj\Debug\stock mangement system.pdb
+D:\jk\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.home.resources
+D:\jk\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.productmaster.resources
+D:\jk\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.purchaseorderdelivery.resources
+D:\jk\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.salesorderentry.resources
+D:\jk\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.Customermaster.resources
+D:\jk\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.addstock.resources
+D:\jk\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.suppliermaste.resources
+D:\jk\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.aboutsoftware.resources
+E:\stock mangement system\stock mangement system\bin\Debug\stock mangement system.exe.config
+E:\stock mangement system\stock mangement system\obj\Debug\stock mangement system.exe
+E:\stock mangement system\stock mangement system\obj\Debug\stock mangement system.pdb
+E:\stock mangement system\stock mangement system\bin\Debug\management final.accdb
+E:\stock mangement system\stock mangement system\bin\Debug\stock mangement system.exe
+E:\stock mangement system\stock mangement system\bin\Debug\stock mangement system.pdb
+E:\stock mangement system\stock mangement system\obj\Debug\stock mangement system.csprojResolveAssemblyReference.cache
+E:\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.addstock.resources
+E:\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.Customermaster.resources
+E:\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.Form1.resources
+E:\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.home.resources
+E:\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.productmaster.resources
+E:\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.Properties.Resources.resources
+E:\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.purchaseorderdelivery.resources
+E:\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.salesorderentry.resources
+E:\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.suppliermaste.resources
+E:\stock mangement system\stock mangement system\obj\Debug\stock mangement system.csproj.GenerateResource.Cache
+E:\project\stock mangement system\stock mangement system\bin\Debug\stock mangement system.exe.config
+E:\project\stock mangement system\stock mangement system\obj\Debug\stock mangement system.exe
+E:\project\stock mangement system\stock mangement system\obj\Debug\stock mangement system.pdb
+E:\project\stock mangement system\stock mangement system\bin\Debug\management final.accdb
+E:\project\stock mangement system\stock mangement system\bin\Debug\stock mangement system.exe
+E:\project\stock mangement system\stock mangement system\bin\Debug\stock mangement system.pdb
+E:\project\stock mangement system\stock mangement system\obj\Debug\stock mangement system.csprojResolveAssemblyReference.cache
+E:\project\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.aboutsoftware.resources
+E:\project\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.addstock.resources
+E:\project\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.Customermaster.resources
+E:\project\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.Form1.resources
+E:\project\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.home.resources
+E:\project\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.productmaster.resources
+E:\project\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.Properties.Resources.resources
+E:\project\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.purchaseorderdelivery.resources
+E:\project\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.salesorderentry.resources
+E:\project\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.suppliermaste.resources
+E:\project\stock mangement system\stock mangement system\obj\Debug\stock mangement system.csproj.GenerateResource.Cache
+E:\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.billpayment.resources
+E:\stock mangement system\stock mangement system\bin\Debug\management 2.accdb
+E:\stock mangement system\stock mangement system\obj\Debug\stock_mangement_system.purchaseordemaster.resources
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\stock mangement system.exe.config
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock mangement system.exe
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock mangement system.pdb
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\management 2.accdb
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\management final.accdb
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\stock mangement system.exe
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\stock mangement system.pdb
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock mangement system.csprojResolveAssemblyReference.cache
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock_mangement_system.addstock.resources
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock_mangement_system.billpayment.resources
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock_mangement_system.Customermaster.resources
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock_mangement_system.Form1.resources
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock_mangement_system.home.resources
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock_mangement_system.productmaster.resources
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock_mangement_system.Properties.Resources.resources
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock_mangement_system.purchaseordemaster.resources
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock_mangement_system.purchaseorderdelivery.resources
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock_mangement_system.salesorderentry.resources
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock_mangement_system.suppliermaste.resources
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock mangement system.csproj.GenerateResource.Cache
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\AxShockwaveFlashObjects.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.Shared.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\ShockwaveFlashObjects.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\stdole.dll
+E:\stock mangement system - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock_mangement_system.addstockreport.resources
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock_mangement_system.supplierreport.resources
+E:\stock mangement system - Copy\stock mangement system\obj\Debug\stock_mangement_system.saleorderreport.resources
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\stock mangement system.exe.config
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.exe
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.pdb
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\management 2.accdb
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\management final.accdb
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\stock mangement system.exe
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\stock mangement system.pdb
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\AxShockwaveFlashObjects.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.Shared.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\ShockwaveFlashObjects.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\stdole.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.csprojResolveAssemblyReference.cache
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.addstock.resources
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.addstockreport.resources
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.billpayment.resources
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.Customermaster.resources
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.Form1.resources
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.home.resources
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.productmaster.resources
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.Properties.Resources.resources
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.purchaseordemaster.resources
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.purchaseorderdelivery.resources
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.saleorderreport.resources
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.salesorderentry.resources
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.suppliermaste.resources
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.supplierreport.resources
+E:\stock mangement system - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.csproj.GenerateResource.Cache
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\stock mangement system.exe.config
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.exe
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.pdb
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\management 2.accdb
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\management final.accdb
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\stock mangement system.exe
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\stock mangement system.pdb
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\AxShockwaveFlashObjects.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.Shared.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\ShockwaveFlashObjects.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\stdole.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.csprojResolveAssemblyReference.cache
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.addstock.resources
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.addstockreport.resources
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.billpayment.resources
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.Customermaster.resources
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.Form1.resources
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.home.resources
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.productmaster.resources
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.Properties.Resources.resources
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.purchaseordemaster.resources
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.purchaseorderdelivery.resources
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.REPORTcustomer.resources
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.saleorderreport.resources
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.salesorderentry.resources
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.suppliermaste.resources
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.supplierreport.resources
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.csproj.GenerateResource.Cache
+E:\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.productmasterreport.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\stock mangement system.exe.config
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.exe
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.pdb
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\management 2.accdb
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\management final.accdb
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\stock mangement system.exe
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\stock mangement system.pdb
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\stdole.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.addstock.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.addstockreport.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.billpayment.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.Customermaster.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.Form1.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.home.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.productmaster.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.productmasterreport.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.Properties.Resources.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.purchaseordemaster.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.purchaseorderdelivery.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.REPORTcustomer.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.saleorderreport.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.salesorderentry.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.suppliermaste.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.supplierreport.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\stock mangement system.exe.config
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.exe
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.pdb
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\management 2.accdb
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\management final.accdb
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\stock mangement system.exe
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\stock mangement system.pdb
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\stdole.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.addstock.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.addstockreport.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.billpayment.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.Customermaster.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.Form1.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.home.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.productmaster.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.productmasterreport.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.Properties.Resources.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.purchaseordemaster.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.purchaseorderdelivery.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.REPORTcustomer.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.saleorderreport.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.salesorderentry.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.suppliermaste.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.supplierreport.resources
+C:\Users\hp\Desktop\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.csproj.GenerateResource.Cache
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\stock mangement system.exe.config
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.exe
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.pdb
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\management 2.accdb
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\management final.accdb
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\stock mangement system.exe
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\stock mangement system.pdb
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\AxShockwaveFlashObjects.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.Shared.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\ShockwaveFlashObjects.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\stdole.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.csprojResolveAssemblyReference.cache
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.addstock.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.addstockreport.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.billpayment.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.Customermaster.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.Form1.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.home.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.productmaster.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.productmasterreport.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.Properties.Resources.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.purchaseordemaster.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.purchaseorderdelivery.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.REPORTcustomer.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.saleorderreport.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.salesorderentry.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.suppliermaste.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock_mangement_system.supplierreport.resources
+E:\stock mangement system - Copy - Copy - Copy - Copy\stock mangement system\obj\Debug\stock mangement system.csproj.GenerateResource.Cache
